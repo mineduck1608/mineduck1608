@@ -4,6 +4,13 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160" height="120" />
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="160" height="120" />
+  <img src="https://media.giphy.com/media/fdLRRYu8GnbefmO0u3/giphy.gif" width="160" height="120" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" height="120" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -34,7 +41,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mineduck1608&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-<img src="https://streak-stats.demolab.com?user=mineduck1608&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mineduck1608&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
