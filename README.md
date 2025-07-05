@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160" height="120" />
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="160" height="120" />
-  <img src="https://media.giphy.com/media/fdLRRYu8GnbefmO0u3/giphy.gif" width="160" height="120" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="160" height="120" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,cs,dotnet,nodejs,express,docker,kubernetes,azure,aws,linux,git,github,vscode,mysql,postgresql,mongodb,redis" />
 </p>
 
 ---
