@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,cs,dotnet,nodejs,express,docker,kubernetes,azure,aws,linux,git,github,vscode,mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,docker,kubernetes" /><br>
+  <img src="https://skillicons.dev/icons?i=azure,aws,linux,git,github,vscode,mysql,postgresql,mongodb,redis" />
 </p>
+
 
 ---
 
